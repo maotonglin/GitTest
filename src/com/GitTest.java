@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("5.....");
         System.out.println("6.....");
         System.out.println("feature.7.....");
+        System.out.println("feature.8.....");
     }
 }
